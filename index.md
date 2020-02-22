@@ -9,5 +9,15 @@
 1. Returning to the ground, by placing arms and feet back to its original position prior to landing. 
 1. At this point only your hands and feet should be touching the floor. This completes one rep.
 
+## Superman Abs&Back
+
+***Steps***
+---
+1.	Lay face down on a mat or flat surface, with arms outstretched.
+1.	Keep your hands and arms straight throughout the exercise.
+1.	Raise your hand and legs 4-5 inches off the ground.
+1.	Hold for 5 seconds, then return to starting position
+
 ***Marine Corps***
 [Bio](bio.md)
+[Topic](topic.md)
