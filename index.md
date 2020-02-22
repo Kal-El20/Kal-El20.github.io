@@ -17,6 +17,7 @@
 1.	Keep your hands and arms straight throughout the exercise.
 1.	Raise your hand and legs 4-5 inches off the ground.
 1.	Hold for 5 seconds, then return to starting position
+![Hope](supermanlight.jpg "light")
 
 ***Marine Corps***
 [Bio](bio.md)
