@@ -1,9 +1,9 @@
 # Superman Fitness
 ![Hope](superman symbol.jpg "HopeSymbol")
-## [Superman Push-Up](https://www.youtube.com/watch?v=GpH0Ymiri8g) 
+## Superman Push-Up 
 ### Steps 
 ---
-1. Lay down on your stomach with your arms above your head and legs straight.
-1. Next, put your hands close together on the floor and feet together. This is the starting position.
-1. Begin exercise by tightening your core and pushing up off the ground so that your body comes up off the ground. 
-1. At this point only your hands and feet should be touching the floor. Lower back down to starting position. This completes one rep.
+1. Starting postion: Lay down on your stomach with your arms shoulder width apart and legs straight.
+1. Next, push your hands and feet off the ground symontaniously, also tightening your core and straighten your arms infront of you.
+1. Returning to the ground, by placing arms and feet back to its original position prior to landing. 
+1. At this point only your hands and feet should be touching the floor. This completes one rep.
