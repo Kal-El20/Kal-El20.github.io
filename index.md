@@ -11,7 +11,6 @@
 
 ## Superman Abs&Back
 ![Abs](abs superman.gif)
-
 ***Steps***
 ---
 1.	Lay face down on a mat or flat surface, with arms outstretched.
