@@ -1,4 +1,4 @@
-![EGA](EGA.jpg)
+![EGA]<(EGA.jpg)align="center">
 
 Above is the emblem of the Marines. The symbol has three distinct features: an eagle, a globe and an anchor.
 #### Eagle
