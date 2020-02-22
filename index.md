@@ -18,7 +18,7 @@
 1.	Raise your hand and legs 4-5 inches off the ground.
 1.	Hold for 5 seconds, then return to starting position
 
-![light](supermanlight.jpg "light")
+![light](Supermanlight.gif "light")
 
 ***Marine Corps***
 [Bio](bio.md)
