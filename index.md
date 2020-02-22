@@ -10,7 +10,7 @@
 1. At this point only your hands and feet should be touching the floor. This completes one rep.
 
 ## Superman Abs&Back
-![Abs](superman abnback.jpg)
+![Abs](abs superman.gif)
 
 ***Steps***
 ---
