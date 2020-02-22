@@ -2,7 +2,7 @@
 ![Hope](superman symbol.jpg "HopeSymbol")
 ## Superman Push-Up 
 ![Fly](superman flying.gif)
-### Steps 
+***Steps*** 
 ---
 1. Starting postion: Lay down on your stomach with your arms shoulder width apart and legs straight.
 1. Next, push your hands and feet off the ground symultaneously, also tightening your core and straighten your arms infront of you towards the top of your head.
