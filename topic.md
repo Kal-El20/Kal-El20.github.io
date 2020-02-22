@@ -8,7 +8,7 @@ Represents the Marine’s global presence.
 #### Anchor 
 Shows both their rich naval heritage and their capacity to globally reach any shore.
 
-![Hymn](Hymn.jpg)="center">
+![Hymn](Hymn.jpg)
 
 The Marines’ Hymn commemorates the first battles
 In 1847 the Marines took part in the Mexican-American War, during which they took Chapultepec Castle in Mexico City.
