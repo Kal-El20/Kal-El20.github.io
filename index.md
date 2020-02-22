@@ -1,7 +1,8 @@
 # Superman Fitness
 ![Hope](superman symbol.jpg "HopeSymbol")
-## Superman Push-Up 
+## [Superman Push-Up](https://www.youtube.com/watch?v=GpH0Ymiri8g) 
 ### Steps 
+---
 1. Lay down on your stomach with your arms above your head and legs straight.
 1. Next, put your hands close together on the floor and feet together. This is the starting position.
 1. Begin exercise by tightening your core and pushing up off the ground so that your body comes up off the ground. 
